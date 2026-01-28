@@ -1,0 +1,8 @@
+
+{
+  "name": "NARIÑOTEX - Fashion & Textiles Platform",
+  "description": "A premium e-commerce and events platform for the fashion and textile industry in Colombia, featuring product catalogs, comparison tools, and event management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
